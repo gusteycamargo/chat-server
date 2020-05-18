@@ -24,7 +24,8 @@
     "@adonisjs/framework": "^5.0.9",
     "@adonisjs/ignitor": "^2.0.8",
     "@adonisjs/lucid": "^6.1.3",
-    "@adonisjs/websocket": "^1.0.12"
+    "@adonisjs/websocket": "^1.0.12",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {},
   "autoload": {
